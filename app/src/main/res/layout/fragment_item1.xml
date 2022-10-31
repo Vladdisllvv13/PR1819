@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    tools:context=".Item1Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Для нашей жизни музыка часто придает своего рода дополнение нас самих! Мы выбираем свои стили музыки и находим песня, что нам по душе! Есть много стилей музыка, таких как : рок, реп, поп, шансон , метал, народная музыка, духовная музыка, джаз, индийская классическая музыка, арабская классическая музыка, европейская классическая музыка, латиноамериканская музыка, блюз, кантри, электронная музыка, ска; рокстеди; реггей."
+        android:textSize="16sp" />
+
+</FrameLayout>

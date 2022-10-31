@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Item3Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Первые поджанры возникали в тесной связи с народной и эстрадной музыкой (кантри, фолк, скиффл, мюзик-хол) того времени.  Были попытки соединить rock практически со всеми видами музыки. Например, с латинской музыкой, джазом, академической и индийской музыкой.  В 60-70-х годах появились практически все крупнейшие поджанры рок-музыки (панк-рок, хард-рок). Уже в конце 70-х-начале 80-х появились такие жанры, как пост-панк, новая волна, альтернативный рок, хардкор, дэт-метал и блэк-метал.  В 90-х годах получили широкое развитие гранж, брит-поп, альтернативный метал.  Основные центры развития рок-музыки — это США и Великобритания. Русскоязычная рок-музыка появилась в СССР в 1960—1970-х гг. Она достигла пика развития в 1980-х гг., продолжив развиваться в 1990-х." />
+
+</FrameLayout>

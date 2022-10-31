@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Item4Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Если давать характеристику поп-музыке, то нужно отметить, что текст ее песен обычно простой и запоминающийся. Темами для таких композиций чаще всего являются несчастная любовь, расставания и другие переживания. Музыкальные критики выделяют простую консервативную схему даже самой лучшей поп-музыки - куплет+припев. Основным инструментом таких мелодий является голос. Для аккомпанемента выделяется второстепенная роль. Все поп-песни имеют ритмическую структуру, под них легко танцевать, потому что в них есть четкий, неизменный бит." />
+
+</FrameLayout>

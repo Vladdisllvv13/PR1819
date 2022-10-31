@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Item6Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Если уходить от скучных определений, то джаз можно назвать буйством жизни — это смелая, дерзкая и непредсказуемая музыка. Он по праву считается импровизационным жанром — произведения обладают особой ритмической энергией, уследить за которой поначалу кажется непосильной задачей. Однако, в этом и есть удовольствие от прослушивания джаза — наблюдать за течением импровизации, а не просто качать головой в такт сильным долям. Принято считать, что джаз появился на улицах Нового Орлеана — американского штата, который стал колыбелью традиционной музыки этого жанра. Кстати, направлений джаза великое множество: традиционный новоорлеанский джаз, бибоп, свинг, хардбоп, джаз-фьюжн, соул-джаз, джаз-фанк, постбоп, эйсид-джаз, смус-джаз и другие." />
+
+</FrameLayout>

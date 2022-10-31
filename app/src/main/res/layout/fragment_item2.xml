@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Item2Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Хип-хоп – это не просто музыкальное или танцевальное направление. Это стиль жизни и способ самовыражения молодого поколения.  Хип-хоп – танцевальное и музыкальное направление молодежной культуры. В начале 20 века хип-хоп имел ярко выраженную социальную ориентацию в творчестве: выражал протест против несправедливости, господства денег, коррупции. Затем, постепенно, стал модным, а значит, и коммерческим течением. Тем не менее, в среде хип-хопа и сейчас есть много исполнителей, придерживающихся первоначальной, оппозиционной к власти линии в творчестве." />
+
+</FrameLayout>

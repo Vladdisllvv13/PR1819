@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/item1">
+
+    <fragment
+        android:id="@+id/item1"
+        android:name="com.example.pr1819.Item1Fragment"
+        android:label="fragment_item1"
+        tools:layout="@layout/fragment_item1" >
+        <action
+            android:id="@+id/action_item1Fragment_to_item2Fragment"
+            app:destination="@id/item2" />
+        <action
+            android:id="@+id/action_item1Fragment_to_item3Fragment"
+            app:destination="@id/item3" />
+        <action
+            android:id="@+id/action_item1Fragment_to_item4Fragment"
+            app:destination="@id/item4" />
+        <action
+            android:id="@+id/action_item1Fragment_to_item5Fragment"
+            app:destination="@id/item5" />
+        <action
+            android:id="@+id/action_item1Fragment_to_item6Fragment"
+            app:destination="@id/item6" />
+    </fragment>
+    <fragment
+        android:id="@+id/item2"
+        android:name="com.example.pr1819.Item2Fragment"
+        android:label="fragment_item2"
+        tools:layout="@layout/fragment_item2" >
+        <action
+            android:id="@+id/action_item2Fragment_to_item1Fragment"
+            app:destination="@id/item1" />
+    </fragment>
+    <fragment
+        android:id="@+id/item3"
+        android:name="com.example.pr1819.Item3Fragment"
+        android:label="fragment_item3"
+        tools:layout="@layout/fragment_item3" >
+        <action
+            android:id="@+id/action_item3Fragment_to_item1Fragment"
+            app:destination="@id/item1" />
+    </fragment>
+    <fragment
+        android:id="@+id/item4"
+        android:name="com.example.pr1819.Item4Fragment"
+        android:label="fragment_item4"
+        tools:layout="@layout/fragment_item4" >
+        <action
+            android:id="@+id/action_item4Fragment_to_item1Fragment"
+            app:destination="@id/item1" />
+    </fragment>
+    <fragment
+        android:id="@+id/item5"
+        android:name="com.example.pr1819.Item5Fragment"
+        android:label="fragment_item5"
+        tools:layout="@layout/fragment_item5" >
+        <action
+            android:id="@+id/action_item5Fragment_to_item1Fragment"
+            app:destination="@id/item1" />
+    </fragment>
+    <fragment
+        android:id="@+id/item6"
+        android:name="com.example.pr1819.Item6Fragment"
+        android:label="fragment_item6"
+        tools:layout="@layout/fragment_item6" >
+        <action
+            android:id="@+id/action_item6Fragment_to_item1Fragment"
+            app:destination="@id/item1" />
+    </fragment>
+</navigation>
